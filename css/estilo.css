@@ -1,0 +1,30 @@
+
+
+.logolargo
+{
+    align-content: center;
+    margin: 100px;
+}
+
+.quienesomos{
+    align-content: center;
+}
+
+.primerades{
+    background-color: rgb(134, 122, 227);
+    text-align: center;
+    margin: 50px;
+}
+
+.segudes{
+    margin: 100px;
+}
+
+.botonanterior{
+    color: tomato;
+}
+
+.asesor{
+    background-color: mediumpurple;
+    text-align: center;
+}
